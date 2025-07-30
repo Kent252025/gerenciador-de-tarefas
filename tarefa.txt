@@ -1,0 +1,23 @@
+		
+Lista de Tarefas 
+
+Tarefa nº1
+ID : 1
+Nome da tarefa : Limpar
+Status da tarefa : Não concluída
+
+Tarefa nº2
+ID : 2
+Nome da tarefa : Lavar
+Status da tarefa : Não concluída
+
+Tarefa nº3
+ID : 3
+Nome da tarefa : Cozinhar
+Status da tarefa : Não concluída
+
+Tarefa nº4
+ID : 4
+Nome da tarefa : Engomar
+Status da tarefa : Não concluída
+
